@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp">
+
+    <ImageView
+        android:id="@+id/iv_attraction_image"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/iv_attraction_description"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        tools:src="@drawable/pinnacle_desert" />
+
+    <TextView
+        android:id="@+id/tv_attraction_name"
+        android:layout_width="320dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        android:textAllCaps="true"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:text="Name" />
+
+    <TextView
+        android:id="@+id/tv_attraction_info"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        tools:text="Info" />
+
+</LinearLayout>

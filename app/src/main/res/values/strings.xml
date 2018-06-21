@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Tour Guide WA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Western Australia</string>
+    <string name="nav_header_subtitle">Pinnacle Desert</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_nav_item_01">About</string>
+    <string name="tv_nav_item_02">Culture &amp; Lifestyle</string>
+    <string name="tv_nav_item_03">Food &amp; Drink></string>
+    <string name="tv_nav_item_04">Things to do</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="iv_attraction_description">Image Description</string>
+
+
+    <!-- About Western Australia -->
+    <string name="about_general_name">About Western Australia</string>
+    <string name="about_general_info">Western Australia lies in the southern hemisphere,
+        covering an area of more than 2.5 million square kilometres – that’s
+        about the size of Western Europe and one-third of Australia’s total landmass.</string>
+    <string name="about_explore_name">Explore &amp; Discover WA</string>
+    <string name="about_explore_info">Create your own must-see-and-do list from the diverse variety of attractions in Western Australia.
+        Find once-in-a-lifetime wildlife encounters and World Heritage natural wonders.
+        Discover one of the oldest surviving cultures on Earth in landscapes that have been billions of years in the making.
+        Walk along beautiful white beaches, on pristine islands, or through ancient gorges, tall-tree forests and one of the world’s largest collections of wildflowers.
+        Seek outback adventure or an adrenalin rush.
+        Find iconic architecture, inspiring legends, great artists and amazing local flavours.</string>
+
+    <!-- Food & Drink-->
+    <string name="food_and_drink_01_name">Core Cider House</string>
+    <string name="food_and_drink_01_info">CORE Cider House is a stunning destination 35 minutes from the heart of Perth,
+        providing artisan ciders and wines, delicious food, sweeping apple orchard views and tours on the Apple Express!</string>
+
+    <string name="food_and_drink_02_name">Jane Brook Estate Wines</string>
+    <string name="food_and_drink_02_info">Wine’s been running through their veins (not just literally!) for over 40 years now.
+        The Atkinson family is passionate about making beautiful,
+        high quality wines and they’ve been successful in the business because they instill in it their own family values: integrity, reliability,
+        diversity and plain-old having fun.</string>
+
+
+    <!-- Culture & Lifestyle-->
+    <string name="culture_lifestyle_01_name">City Lifestyle</string>
+    <string name="culture_lifestyle_01_info">Perth is regularly ranked in the top 10 most liveable,
+        friendly and attractive cities in the world. The sun shines for an average of nine hours per day,
+        with 131 perfectly clear blue-sky days every year. Finding ways to enjoy them is easy, with a huge
+        variety of things to do in Perth. It’s the only capital city where you can choose to taste a world-class wine region,
+        picnic in one of the world’s largest inner city parks,
+        and watch an ocean sunset from one of 19 white sand beaches, all within a single day in the city. Here\\\'s the highlights! </string>
+
+    <string name="culture_lifestyle_02_name">Authentic INDIGENOUS EXPERIENCES</string>
+    <string name="culture_lifestyle_02_info">One of the oldest surviving cultures on
+        Earth invites you to discover their deep connection to the land, their
+        legendary stories, rich heritage and some of the oldest rock art in the world. </string>
+
+    <!-- Things to do in WA -->
+    <string name="must_do_01_name">Rottnest Island</string>
+    <string name="must_do_01_info">Famous for its laid back atmosphere and beautiful beaches,
+        Rottnest Island lies just 18 kilometres offshore from Perth surrounded by the sparkling Indian Ocean.
+        This is where the locals go to swim, surf, snorkel, fish and relax. </string>
+
+    <string name="must_do_02_name">Penguin Island</string>
+    <string name="must_do_02_info">Located 45 minutes south of Perth and a five minute ferry ride across Shoalwater Bay,
+        Penguin Island is one of Australia\'s premier nature based tourism destinations.
+        The star attraction is the little penguin - the smallest species in the world.
+        Visitors can get up close to the penguins at the Discovery Centre where rangers host three daily penguin feedings (costs may apply).
+        This is your best opportunity to see these creatures as they're shy and spend most daylight hours feeding at sea or hidden in their burrows.</string>
+
+    <string name="must_do_03_name">Fremantle Markets</string>
+    <string name="must_do_03_info">Built in 1897,
+        Fremantle Markets is one of the port city\'s most significant landmarks and has rightfully earned
+        itself a reputation as one of the best destinations in Fremantle for locals and tourists alike,
+        as well as a leading source of independent wares and produce. </string>
+
+    <string name="must_do_04_name">Cottesloe Beach</string>
+    <string name="must_do_04_info">Perth\'s iconic Cottesloe Beach is as pretty as a picture.
+        It\'s one of the city\'s most popular spots for swimming, snorkelling,
+        surfing and drinking in ocean sunsets over a glass of wine, a refreshing beer or a relaxed dinner.</string>
+    <string name="item_communicate">Communicate</string>
+
+
+</resources>
